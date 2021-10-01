@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, i'm [jhon fernanfez][website]
-
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=dilshadnoshad) [![Github](https://img.shields.io/github/followers/dilshadnoshad?label=Followers&logo=Github)](https://github.com/dilshadnoshad)
 
 ## ❤️ I'm interested in:
-- Low level programming
 - 🌱 I’m currently learning ...
 - 📱Mobile application development
 
