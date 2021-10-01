@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=dilshadnoshad) [![Github](https://img.shields.io/github/followers/dilshadnoshad?label=Followers&logo=Github)](https://github.com/dilshadnoshad)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=dilshadnoshad) -->
+[![Github](https://img.shields.io/github/followers/dilshadnoshad?label=Followers&logo=Github)](https://github.com/dilshadnoshad)
 
 ## ❤️ I'm interested in:
 - 🌱 I’m currently learning ...
