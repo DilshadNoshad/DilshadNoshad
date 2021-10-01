@@ -1,4 +1,4 @@
-### Hi there 👋, i'm [Dilshad NOshad][website]
+### Hi there 👋, i'm [Dilshad NOshad]
 
 <!--
 **DilshadNoshad/DilshadNoshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +19,12 @@ Here are some ideas to get you started:
 
 ## ❤️ I'm interested in:
 - 🌱 I’m currently learning ...
-- 📱Mobile application development
+- 📱  Mobile application development
 
 ## 📘 I'am learning:
 - 🌐 Web development
-- 🤖 Electronics
-- 📐 Differential and integral calculus
 
-## Programming languages that I know best:
+## Programming languages that I know:
 - ☕ Java (first love ❤️)
 - PHP
 - Javascript
