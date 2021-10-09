@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/github/followers/dilshadnoshad?label=Followers&logo=Github)](https://github.com/dilshadnoshad)
 
 ## ❤️ I'm interested in:
+- 🔭 I’m currently working on (CMS)
 - 🌱 I’m currently learning ...
+- javascript
+- react ⚛️
 - 📱  Mobile application development
 
 ## 📘 I'am learning:
