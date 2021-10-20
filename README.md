@@ -1,5 +1,5 @@
+![D-vers](https://user-images.githubusercontent.com/68327502/138095793-7dec504b-04db-4643-adb8-eefa6e519a95.png)
 ### Hi there 👋, i'm [Dilshad Noshad][website]
-
 <!--
 **DilshadNoshad/DilshadNoshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
