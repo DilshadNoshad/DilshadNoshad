@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - PHP
 - Javascript
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dilshad-Noshad&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dilshadnoshad&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [website]: https://frontendd.smartsupport24by7.com/
