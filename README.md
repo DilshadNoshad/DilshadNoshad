@@ -1,14 +1,14 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/68327502/138095793-7dec504b-04db-4643-adb8-eefa6e519a95.png" width="400">
-</p>
-
 ### Hi there 👋, i'm [Dilshad Noshad][website]
 [website]: https://frontendd.smartsupport24by7.com/
+[![Github](https://img.shields.io/github/followers/dilshadnoshad?label=Followers&logo=Github)](https://github.com/dilshadnoshad)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68327502/138095793-7dec504b-04db-4643-adb8-eefa6e519a95.png" width="450">
+</p>
 
 <!--
 **DilshadNoshad/DilshadNoshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=dilshadnoshad) -->
-[![Github](https://img.shields.io/github/followers/dilshadnoshad?label=Followers&logo=Github)](https://github.com/dilshadnoshad)
 
 ## ❤️ I'm interested in:
 - 🔭 I’m currently working on (CMS)
