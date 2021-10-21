@@ -26,4 +26,14 @@
 - PHP
 - Javascript
 
+<br />
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dilshadnoshad&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![User GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshadnoshad&theme=dark&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=false&disable_animations=false&locale=en)
+
+
+<br />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilshadnoshad&theme=dark&hide_border=false&=dark&fire=C0272D&border=false&sideLabels=79ff97&locale=en)
