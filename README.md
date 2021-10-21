@@ -37,3 +37,6 @@
 <br />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilshadnoshad&theme=dark&hide_border=false&=dark&fire=C0272D&border=false&sideLabels=79ff97&locale=en)
+
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=dilshadnoshad&theme=dark&area=true&hide_border=false&bg_color=151515&line=60C476&color=FEFEFE&point=FA8B00&locale=en)
+
