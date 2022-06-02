@@ -15,7 +15,6 @@
 - 🔭 I’m currently working on (CMS)
 - 🌱 I’m currently learning ...
 - javascript
-- react ⚛️
 - 📱  Mobile application development
 - flutter
 
