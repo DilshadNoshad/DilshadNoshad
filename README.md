@@ -17,6 +17,7 @@
 - javascript
 - react ⚛️
 - 📱  Mobile application development
+- flutter
 
 ## 📘 I'am learning:
 - 🌐 Web development
@@ -25,6 +26,7 @@
 - ☕ Java (first love ❤️)
 - PHP
 - Javascript
+- react ⚛️
 
 <br />
 
