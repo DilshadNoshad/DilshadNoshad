@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer who loves coding and the web platform ❤️.</h3>
 
 [![Github](https://img.shields.io/github/followers/dilshadnoshad?label=Followers&logo=Github)](https://github.com/dilshadnoshad)
+[![Profile View](https://visitcount.itsvg.in/api?id=DilshadNoshad&label=Profile%20Views&color=10&pretty=false)](https://visitcount.itsvg.in)
 [![Github Years Old](https://badges.pufler.dev/years/dilshadnoshad?style=flat-round&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=3600)](https://github.com/dilshadnoshad)
 
 <p align="center">
