@@ -36,19 +36,13 @@ JavaScript, React, Next.js, Node.js, AWS, or any aspect of software development.
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dilshadnoshad&show_icons=true&theme=omni)
-
 <br>
-
 ### ✨ Top Utilized Languages:
-![]("https://github-readme-stats.vercel.app/api/top-langs/?username=dilshadnoshad&theme=omni&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=false&disable_animations=false&locale=en)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshadnoshad&theme=omni&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=false&disable_animations=false&locale=en)
 <br>
-
 ### 🔥 Contributions Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dilshadnoshad&theme=omni&hide_border=false&=dark&fire=C0272D&border=false&sideLabels=79ff97&locale=en)
-
 <br>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DilshadNoshad&limit=5&theme=omni&combine_all_yearly_contributions=true)
 
