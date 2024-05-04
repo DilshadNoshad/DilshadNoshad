@@ -5,6 +5,7 @@
 [![Profile View](https://visitcount.itsvg.in/api?id=DilshadNoshad&label=Profile%20Views&color=10&pretty=false)](https://visitcount.itsvg.in)
 [![Github Years Old](https://badges.pufler.dev/years/dilshadnoshad?style=flat-round&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=3600)](https://github.com/dilshadnoshad)
 
+---
 <p align="center">
 <img src="https://user-images.githubusercontent.com/68327502/176946163-8ddb4547-ecfc-43a5-874e-0c3abcde6799.png" width="450">
 </p>
@@ -45,5 +46,6 @@
 
 <br />
 
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=dilshadnoshad&theme=dark&area=true&hide_border=false&bg_color=151515&line=60C476&color=FEFEFE&point=FA8B00&locale=en)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DilshadNoshad&limit=5&theme=omni&combine_all_yearly_contributions=true)
 
