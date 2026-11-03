@@ -1,0 +1,46 @@
+
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&include_all_commits=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update GitHub profile stats"
+            git push
+          else
+            echo "No stats changes to commit."
+          fi

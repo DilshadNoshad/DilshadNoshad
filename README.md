@@ -98,8 +98,8 @@ const dilshad = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DilshadNoshad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshadNoshad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&langs_count=8" alt="Top languages" />
+<img height="180" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="180" height="180" src="./profile/top-langs.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=DilshadNoshad&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="Streak" />
 
