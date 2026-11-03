@@ -1,48 +1,147 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Dilshad Noshad</h1>
-<h3 align="center">"Empowering tomorrow's tech with today's code."</h3>
+ <!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-[![Github](https://img.shields.io/github/followers/dilshadnoshad?label=Followers&logo=Github)](https://github.com/dilshadnoshad)
-[![Profile View](https://visitcount.itsvg.in/api?id=DilshadNoshad&label=Profile%20Views&color=10&pretty=false)](https://visitcount.itsvg.in)
-[![Github Years Old](https://badges.pufler.dev/years/dilshadnoshad?style=flat-round&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=3600)](https://github.com/dilshadnoshad)
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1e2a3f,100:2563eb&section=header&reversal=false" width="100%" alt="" /> -->
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/68327502/176946163-8ddb4547-ecfc-43a5-874e-0c3abcde6799.png" width="450">
-</p>
+<img src="./assets/banner.jpeg" alt="Hi, I'm Dilshad Noshad" width="100%" />
 
-**🔭 I’m currently working on:**<br>
-Enhancing cloud solutions with microservices for agility and scalability.<br><br>
+<br/>
 
-**🌱 I’m currently learning:**<br>
-Leveling up with AWS and diving deep into GraphQL for streamlined data handling.<br><br>
+<a href="https://github.com/DilshadNoshad">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=720&height=50&lines=Empowering+tomorrow's+tech+with+today's+code.;Full-Stack+Developer+%7C+React+%26+Next.js+%7C+Node.js;Exploring+AI%2C+RAG+%26+Cloud+Engineering.;Let's+collaborate+and+code+something+amazing." alt="Typing animation" />
+</a>
 
-**💬 Ask me about:**<br>
-JavaScript, React, Next.js, Node.js, AWS, or any aspect of software development.<br><br>
+<br/><br/>
 
-**📫 How to reach me:**<br> **iamdnoshad96@gmail.com**
+<!-- ═══════════ BADGES: years old, views, followers ═══════════ -->
+<img src="https://badges.pufler.dev/years/dilshadnoshad?style=for-the-badge&logo=github&logoColor=white&labelColor=1e2a3f&color=2563eb&label=Years%20on%20GitHub&cacheSeconds=3600" alt="Years on GitHub" />
+<img src="https://komarev.com/ghpvc/?username=DilshadNoshad&label=Profile%20Views&style=for-the-badge&color=2563eb&labelColor=1e2a3f" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/DilshadNoshad?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=1e2a3f&color=2563eb" alt="Followers" />
+<img src="https://img.shields.io/badge/Public%20Repos-75-2563eb?style=for-the-badge&logo=git&logoColor=white&labelColor=1e2a3f" alt="Repositories" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@d-vers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@d-vers" height="30" width="40" /></a>
-<a href="https://dev.to/@dilshadnoshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@dilshadnoshad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dilshad-noshad-800967219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshad-noshad-800967219" height="30" width="40" /></a>
-<a href="https://fb.com/@programmerduckofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@programmerduckofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/@programmerduck_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@programmerduck_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/programmer duck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programmer duck" height="30" width="40" /></a>
-</p>
+<br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<a href="https://bio.link/dilshadnoshad"><img src="https://img.shields.io/badge/Portfolio-bio.link-2563eb?style=flat-square&logo=linktree&logoColor=white&labelColor=1e2a3f" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/dilshadnoshad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e2a3f" alt="LinkedIn" /></a>
+<a href="mailto:its.dilshad.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1e2a3f" alt="Email" /></a>
+<a href="https://www.youtube.com/@programmerduck96"><img src="https://img.shields.io/badge/YouTube-Programmer%20Duck-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1e2a3f" alt="YouTube" /></a>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dilshadnoshad&show_icons=true&theme=omni)
-<br>
-### ✨ Top Utilized Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshadnoshad&theme=omni&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=false&disable_animations=false&locale=en)
-<br>
-### 🔥 Contributions Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=dilshadnoshad&theme=omni&hide_border=false&=dark&fire=C0272D&border=false&sideLabels=79ff97&locale=en)
-<br>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DilshadNoshad&limit=5&theme=omni&combine_all_yearly_contributions=true)
+</div>
 
+<br/>
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+<table align="center">
+<tr>
+<td width="260" align="center">
+  <img src="./assets/Dilshad Noshad.png" width="220" alt="Dilshad Noshad" style="border-radius:50%" />
+  <br/>
+  <!-- <br/> -->
+  <!-- <img src="./assets/logo.png" width="28" alt="DN logo" /> -->
+  <!-- <br/> -->
+  <!-- <sub><b>🦆 Programmer Duck</b></sub> -->
+</td>
+<td>
+
+### About Me 
+
+<img src="./assets/logo.png" width="60" alt="DN logo" />
+
+I'm a **full-stack developer, passionate creator, and lifelong learner** who enjoys turning ideas into intuitive, reliable, and scalable digital experiences. I love combining thoughtful UI design with solid backend engineering to build technology that is both useful and enjoyable.
+
+I believe in continuous learning, clean code, problem-solving, and sharing knowledge with the developer community.
+
+```ts
+const dilshad = {
+  role: "Full-Stack Developer",
+  interests: ["Software Engineering", "AI Engineering", "Cloud Architecture"],
+  technologies: ["React", "Next.js", "TypeScript", "Node.js", "Flutter"],
+  currentlyLearning: ["RAG", "LLMs", "Advanced DSA", "AWS"],
+  problemSolving: "Competitive Programming & Codeforces",
+  contentCreator: "Programmer Duck 🦆",
+  openTo: "Learning, collaboration & open-source",
+} as const;
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ NOW ═══════════════ -->
+## ⚡ What I'm Up To
+
+| 🔭 Exploring | 🌱 Learning | 💬 Ask me about | 📫 Reach me |
+|:---:|:---:|:---:|:---:|
+| AI-powered applications, scalable backend systems & modern web development | RAG, LLMs, AWS, advanced DSA & system design | JavaScript · TypeScript · React · Next.js · Node.js · Flutter | [its.dilshad.dev@gmail.com](mailto:its.dilshad.dev@gmail.com) |
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,redux,tailwind,bootstrap,sass,webpack&perline=12" alt="Frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress,java,spring,graphql,mongodb,mysql,postgres,firebase&perline=11" alt="Backend" />
+
+**Mobile · Cloud · Design · Tools**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,aws,heroku,git,github,postman,figma,ai,ps&perline=10" alt="Tools" />
+
+</div>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DilshadNoshad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshadNoshad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=DilshadNoshad&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="Streak" />
+
+</div>
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DilshadNoshad&bg_color=0d1117&color=2563eb&line=2563eb&point=ffffff&area=true&area_color=2563eb&hide_border=true" width="100%" alt="Contribution graph" />
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DilshadNoshad/DilshadNoshad/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DilshadNoshad/DilshadNoshad/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/DilshadNoshad/DilshadNoshad/output/github-snake.svg" />
+  </picture>
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DilshadNoshad&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
+</div>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dilshadnoshad"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://dev.to/dilshadnoshad"><img src="https://skillicons.dev/icons?i=devto" height="42" alt="DEV" /></a>&nbsp;&nbsp;
+<a href="https://codepen.io/dilshadnoshad"><img src="https://skillicons.dev/icons?i=codepen" height="42" alt="CodePen" /></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@programmerduck96"><img src="https://devicons.io/devicons/icons/youtube-icon.svg" height="42" alt="YouTube" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/programmerduck_official"><img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="https://fb.com/programmerduckofficial"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="42" alt="Facebook" /></a>&nbsp;&nbsp;
+<a href="mailto:its.dilshad.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" /></a>
+
+<br/><br/>
+
+<i>"Empowering tomorrow's tech with today's code."</i> 🦆
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563eb,100:1e2a3f&section=footer" width="100%" alt="" /> -->
+
+</div>
