@@ -3,7 +3,7 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1e2a3f,100:2563eb&section=header&reversal=false" width="100%" alt="" /> -->
 
-<img src="./assets/banner.jpeg" alt="Hi, I'm Dilshad Noshad" width="100%" />
+<img src="./assets/banner.webp" alt="Hi, I'm Dilshad Noshad" width="100%" />
 
 <br/>
 
@@ -34,10 +34,10 @@
 <table align="center">
 <tr>
 <td width="260" align="center">
-  <img src="./assets/Dilshad Noshad.png" width="220" alt="Dilshad Noshad" style="border-radius:50%" />
+  <img src="./assets/Dilshad Noshad.webp" width="220" alt="Dilshad Noshad" style="border-radius:50%" />
   <br/>
   <!-- <br/> -->
-  <!-- <img src="./assets/logo.png" width="28" alt="DN logo" /> -->
+  <!-- <img src="./assets/logo.webp" width="28" alt="DN logo" /> -->
   <!-- <br/> -->
   <!-- <sub><b>🦆 Programmer Duck</b></sub> -->
 </td>
@@ -45,7 +45,7 @@
 
 ### About Me 
 
-<img src="./assets/logo.png" width="60" alt="DN logo" />
+<img src="./assets/logo.webp" width="60" alt="DN logo" />
 
 I'm a **full-stack developer, passionate creator, and lifelong learner** who enjoys turning ideas into intuitive, reliable, and scalable digital experiences. I love combining thoughtful UI design with solid backend engineering to build technology that is both useful and enjoyable.
 
